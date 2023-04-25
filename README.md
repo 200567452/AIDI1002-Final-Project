@@ -4,7 +4,7 @@ This project replicates the paper: Block Hankel Tensor ARIMA for Multiple Short 
 
 source repo: https://github.com/huawei-noah/BHT-ARIMA
 
-I test the BHT-ARIMA model against VARMAX and LSTM on ho well it can predict currency exchange rates.
+I compare the BHT-ARIMA model against VARMAX and LSTM to test the accuracy (NRMSE) of predictions on currency exchange rates.
 
 data source: https://github.com/laiguokun/multivariate-time-series-data
 
